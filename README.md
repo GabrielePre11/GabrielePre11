@@ -3,8 +3,6 @@
 <img src="./MinecraftGIF.gif" alt="Minecraft GIF"/>
 
 ## Hi, I'm Gabriele 👋
-
-<h2>Future Front-End Developer</h2>
 </div>
 
 <ul>
