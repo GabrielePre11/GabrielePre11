@@ -10,7 +10,7 @@
   <li>📫 How to reach me: prestano.gabriele@outlook.com</li>
   <li>⚡ Fun fact: I enjoy learning foreign languages</li>
   <li>⚡ Fun fact [2]: I practice Calisthenics</li>
-  <li>🗣️ I speak: Italian, Sicilian, English, Spanish (B2+), French (B2), German (B1)</li>
+  <li>🗣️ I speak: Italian 🇮🇹, Sicilian, English, Spanish (B2+), French (B2), German (B1)</li>
 </ul>
 
 <div align=center>
