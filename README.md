@@ -6,7 +6,7 @@
 </div>
 
 <ul>
-  <li>🌱 I'm currently learning: HTML5 (Advanced), CSS3 (Upper-Intermediate), JavaScript (Beginner/Intermediate), GitHub</li>
+  <li>🌱 I'm currently learning: HTML5 (Advanced) | CSS3 (Upper-Intermediate) | JavaScript (Beginner/Intermediate) | GitHub</li>
   <li>📫 How to reach me: prestano.gabriele@outlook.com</li>
   <li>⚡ Fun fact: I enjoy learning foreign languages</li>
   <li>⚡ Fun fact [2]: I practice Calisthenics</li>
