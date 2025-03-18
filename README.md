@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./MinecraftGIF.gif" alt="Minecraft GIF"/>
+![GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGsxNm84aG42aWU3OXlrcHVneWVmYmR4ZjdydDZ3ZXRjNzB2bWx4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4L2iGQ26ppzt7LT25o/giphy.gif)
 
 ## Hi, I'm Gabriele 👋
 </div>
