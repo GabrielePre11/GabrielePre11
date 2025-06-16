@@ -2,7 +2,7 @@
   
 ![COVER](cover.png)
 
-# Hi, I'm Gabriele 👋
+# Hi, I'm Gabriele 👨🏻‍💻
 </div>
 
 <div align="center">
