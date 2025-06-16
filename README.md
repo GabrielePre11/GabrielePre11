@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.  
+I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.<br>  
 I'm currently taking an Angular course on Udemy and primarily work with React, TypeScript, and TailwindCSS.
 </div>
 
