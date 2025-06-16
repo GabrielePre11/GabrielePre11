@@ -28,6 +28,9 @@ I'm currently taking an Angular course on Udemy and primarily work with React, T
 ![](https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## GitHub Trophies
+<p><img src="https://github-profile-trophy.vercel.app/?username=GabrielePre11&amp;theme=onedark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+
 <!--
 **GabrielePre11/GabrielePre11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
