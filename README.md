@@ -7,7 +7,7 @@
 
 <div align="center">
 I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.<br>  
-I'm currently exploring Angular and primarily work with React, TypeScript, and TailwindCSS.
+I primarily work with React, TypeScript, and TailwindCSS and I have a foundational understanding of Angular and Sass.
 </div>
 
 <div align=center>
