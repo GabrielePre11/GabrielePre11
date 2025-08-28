@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.<br>  
-  I primarily work with React, TypeScript, and TailwindCSS and I have a foundational understanding of Angular and Sass.
+  Junior Front-End Developer con una grande passione per lo sviluppo di UI moderne e pulite, con una grande curiosià che mi spinge ad esplorare ed apprendere tecnologie moderne! Sviluppo i miei progetti personali   principalmente in React / Next.js, TypeScript e TailwindCSS.
 </p>
 
 <div align=center>
-<h2>My Stack</h2>
+
+## Competenze tecniche
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -28,8 +28,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## GitHub Trophies
-<p><img src="https://github-profile-trophy.vercel.app/?username=GabrielePre11&amp;theme=onedark&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4" alt=""></p>
+## Progetti in evidenza
+</div>
+
+- 📚 **MERN - Readly**: MERN web-app per la consultazione e la gestione CRUD di libri, con ruoli utente/admin.
+- 🎮 **Next.js - GameShelf**: Libreria di giochi per la consultazione e il filtraggio di giochi basata sull'API di RAWG e realizzata con Next.js, TypeScript, TailwindCSS v4 e Clerk.
+- 🪪 **Next.js - Portfolio**: Portfolio personale elegante e minimale con Next.js e TailwindCSS. (up-to-date)
+- 🌮 **React - Recipes App**: app reattiva per esplorare, filtrare e visualizzare ricette, basata su React, React Router, Zustand.
+- 🛒 **Next.js - E-commerce**: E-commerce moderno e minimale, sviluppato con Next.js (React), TypeScript, TailwindCSS e Zustand per la gestione dello stato globale.
 
 <!--
 **GabrielePre11/GabrielePre11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
