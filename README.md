@@ -1,11 +1,11 @@
-<div align="center">
-![COVER](cover.png)
-</div>
+<p align="center">
+  <img src="cover.png" alt="COVER">
+</p>
 
-<div align="center">
-I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.<br>  
-I primarily work with React, TypeScript, and TailwindCSS and I have a foundational understanding of Angular and Sass.
-</div>
+<p align="center">
+  I'm a 21-year-old self-taught Junior Front-End Developer who enjoys building clean and modern user interfaces.<br>  
+  I primarily work with React, TypeScript, and TailwindCSS and I have a foundational understanding of Angular and Sass.
+</p>
 
 <div align=center>
 <h2>My Stack</h2>
