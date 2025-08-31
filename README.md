@@ -30,9 +30,22 @@ Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/m
 <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" alt="prettier"/>
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-## GitHub Stats & Top Languages
-![](https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp; GitHub Stats & Top Languages
+
+<table>
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=nightowl&show_icons=true&count_private=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielePre11&theme=nightowl&hide_border=false" alt="GabrielePre11 streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=GabrielePre11&theme=nightowl&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; Progetti in evidenza
 </div>
