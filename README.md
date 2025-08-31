@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  Junior Front-End Developer con una grande passione per lo sviluppo di UI moderne e pulite, <br>con una grande curiosià che mi spinge ad esplorare ed apprendere tecnologie moderne! <br>Sviluppo i miei progetti personali principalmente in React / Next.js, TypeScript e TailwindCSS.
+Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; con una grande passione per lo sviluppo di UI moderne e pulite, <br>con una grande curiosià che mi spinge ad esplorare ed apprendere tecnologie moderne! <br>Sviluppo i miei progetti personali principalmente in React / Next.js, TypeScript e TailwindCSS.
 </p>
 
 <div align=center>
 
-## Competenze tecniche
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; Competenze tecniche
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -34,14 +34,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielePre11&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Progetti in evidenza
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; Progetti in evidenza
 </div>
 
-- 📚 **MERN - Readly**: MERN web-app per la consultazione e la gestione CRUD di libri, con ruoli utente/admin.
-- 🎮 **Next.js - GameShelf**: Libreria di giochi per la consultazione e il filtraggio di giochi basata sull'API di RAWG e realizzata con Next.js, TypeScript, TailwindCSS v4 e Clerk.
-- 🪪 **Next.js - Portfolio**: Portfolio personale elegante e minimale con Next.js e TailwindCSS. (up-to-date)
-- 🌮 **React - Recipes App**: app reattiva per esplorare, filtrare e visualizzare ricette, basata su React, React Router, Zustand.
-- 🛒 **Next.js - E-commerce**: E-commerce moderno e minimale, sviluppato con Next.js (React), TypeScript, TailwindCSS e Zustand per la gestione dello stato globale.
+- 📚 **MERN - Readly**: MERN web-app per la consultazione e la gestione CRUD di libri, con ruoli utente/admin. <a href="https://github.com/GabrielePre11/mern-readly" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          </a>
+- 🎮 **Next.js - GameShelf**: Libreria di giochi per la consultazione e il filtraggio di giochi basata sull'API di RAWG e realizzata con Next.js, TypeScript, TailwindCSS v4 e Clerk. <a href="https://github.com/GabrielePre11/nextjs-gameshelf" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=purple">
+          </a>
+- 🪪 **Next.js - Portfolio**: Portfolio personale elegante e minimale con Next.js e TailwindCSS. (up-to-date) <a href="https://github.com/GabrielePre11/new-portfolio" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=white">
+          </a>
+- 🌮 **React - Recipes App**: app reattiva per esplorare, filtrare e visualizzare ricette, basata su React, React Router, Zustand. <a href="https://github.com/GabrielePre11/react-recipes-app" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=darkblue">
+          </a>
+- 🛒 **Next.js - E-commerce**: E-commerce moderno e minimale, sviluppato con Next.js (React), TypeScript, TailwindCSS e Zustand per la gestione dello stato globale. <a href="https://github.com/GabrielePre11/nextjs-ecommerce" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=yellow">
+          </a>
 
 <!--
 **GabrielePre11/GabrielePre11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
