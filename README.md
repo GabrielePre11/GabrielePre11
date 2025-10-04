@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; con una grande passione per lo sviluppo di UI moderne e pulite, <br>con una grande curiosià che mi spinge ad esplorare ed apprendere tecnologie moderne! <br>Sviluppo i miei progetti personali principalmente in React / Next.js, TypeScript e TailwindCSS.
+Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35>&nbsp; con una grande passione per lo sviluppo di UI moderne e pulite, <br>con una grande curiosità che mi spinge ad esplorare ed apprendere tecnologie moderne! <br>Sviluppo i miei progetti personali principalmente in React / Next.js, TypeScript e TailwindCSS.
 </p>
 
 <div align=center>
