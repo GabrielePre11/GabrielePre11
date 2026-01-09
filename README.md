@@ -50,19 +50,35 @@ Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/m
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; Progetti in evidenza
 </div>
 
-- 📚 **MERN - Readly**: MERN web-app per la consultazione e la gestione CRUD di libri, con ruoli utente/admin. <a href="https://github.com/GabrielePre11/mern-readly" target="_blank">
+🌿 **PEAN Stack - Plantia**: Ecommerce Full Stack che offre la consultazione e la gestione di piante e reviews, autenticazione, e wishlist e carrello persistenti. <a href="https://github.com/GabrielePre11/pean-stack-plantia" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=dark-green">
+          </a>
+
+🍿 **NgFlix - Angular Movies & Series Web App**: Piattaforma che consente la visualizzazione, la ricerca, il filtraggioe e il salvataggio di migliaia di film e serie TV. <a href="https://github.com/GabrielePre11/angular-ngflix" target="_blank">
             <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
           </a>
-- 🎮 **Next.js - GameShelf**: Libreria di giochi per la consultazione e il filtraggio di giochi basata sull'API di RAWG e realizzata con Next.js, TypeScript, TailwindCSS v4 e Clerk. <a href="https://github.com/GabrielePre11/nextjs-gameshelf" target="_blank">
+
+🪑 **Angular - Panto E-commerce**: E-commerce moderno e responsive che permette agli utenti di navigare, cercare e filtrare un ampio catalogo di mobili, e di salvare/inserire gli articoli nella wishlist e in un carrello persistenti. <a href="https://github.com/GabrielePre11/angular-panto-ecommerce" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=orange">
+          </a>
+          
+📚 **MERN Stack - Readly**: MERN web-app per la consultazione e la gestione CRUD di libri, con ruoli utente/admin. <a href="https://github.com/GabrielePre11/mern-readly" target="_blank">
+            <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
+          </a>
+          
+🎮 **Next.js - GameShelf**: Libreria di giochi per la consultazione e il filtraggio di giochi basata sull'API di RAWG e realizzata con Next.js, TypeScript, TailwindCSS v4 e Clerk. <a href="https://github.com/GabrielePre11/nextjs-gameshelf" target="_blank">
             <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=purple">
           </a>
-- 🪪 **Next.js - Portfolio**: Portfolio personale elegante e minimale con Next.js e TailwindCSS. (up-to-date) <a href="https://github.com/GabrielePre11/new-portfolio" target="_blank">
+          
+🪪 **Next.js - Portfolio**: Portfolio personale elegante e minimale con Next.js e TailwindCSS. (up-to-date) <a href="https://github.com/GabrielePre11/new-portfolio" target="_blank">
             <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=white">
           </a>
-- 🌮 **React - Recipes App**: app reattiva per esplorare, filtrare e visualizzare ricette, basata su React, React Router, Zustand. <a href="https://github.com/GabrielePre11/react-recipes-app" target="_blank">
+          
+🌮 **React - Recipes App**: app reattiva per esplorare, filtrare e visualizzare ricette, basata su React, React Router, Zustand. <a href="https://github.com/GabrielePre11/react-recipes-app" target="_blank">
             <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=darkblue">
           </a>
-- 🛒 **Next.js - E-commerce**: E-commerce moderno e minimale, sviluppato con Next.js (React), TypeScript, TailwindCSS e Zustand per la gestione dello stato globale. <a href="https://github.com/GabrielePre11/nextjs-ecommerce" target="_blank">
+          
+🛒 **Next.js - E-commerce**: E-commerce moderno e minimale, sviluppato con Next.js (React), TypeScript, TailwindCSS e Zustand per la gestione dello stato globale. <a href="https://github.com/GabrielePre11/nextjs-ecommerce" target="_blank">
             <img src="https://img.shields.io/badge/VEDI CODICE-ff9?style=for-the-badge&logo=github&logoColor=black&color=yellow">
           </a>
 
