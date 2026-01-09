@@ -38,7 +38,6 @@ Junior Front-End Developer <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/m
 <table align="center">
 <tr>
 <td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GabrielePre11&theme=nightowl&show_icons=true&count_private=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielePre11&theme=nightowl&hide_border=false" alt="GabrielePre11 streak" />
 </td>
 <td width="50%" align="center">
